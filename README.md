@@ -211,7 +211,7 @@ If you find this wiki useful for your research, please consider citing it:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/username/vla-wiki}}
+  howpublished = {\url{https://github.com/ishandutta2007/vla-wiki}}
 }
 ```
 
