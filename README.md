@@ -224,3 +224,7 @@ If you find this wiki useful for your research, please consider citing it:
   <br>
   <sub>Last updated: February 2025</sub>
 </div>
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Vision-Language-Action&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Vision-Language-Action&type=date&legend=top-left)
