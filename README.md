@@ -6,6 +6,10 @@
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/username/vla-wiki/graphs/commit-activity)
   [![GitHub](https://img.shields.io/github/license/username/vla-wiki)](LICENSE)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
   
   <h3>A curated wiki for researchers working at the intersection of Vision, Language, and Action in robotics</h3>
   
