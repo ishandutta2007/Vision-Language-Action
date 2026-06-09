@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/username/vla-wiki/graphs/commit-activity)
   [![GitHub](https://img.shields.io/github/license/username/vla-wiki)](LICENSE)
